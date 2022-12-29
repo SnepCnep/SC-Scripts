@@ -1,4 +1,4 @@
-#Regels
+# Regels
 
 1/ Dit script mag niet worden verkocht	
 
@@ -6,7 +6,7 @@
 
 3/ Mijn naam in deze script mag niet worden verwijdert ( SnepCnep )
 
-#Support
+# Support
 
 - Vragen kunt u altijd mij een berichtje sturen ( 𝓢𝓷𝓮𝓹𝓒𝓷𝓮𝓹#0074 )
 
