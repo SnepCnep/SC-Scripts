@@ -6,7 +6,7 @@ ESX = exports["es_extended"]:getSharedObject() -- Es_extended 1.18+
 RegisterCommand("clearallmenu", function(source, args)
     local src = source
     local xPlayer = ESX.GetPlayerFromId(src)
-    if xPlayer.getGroup() == 'admin' or 'mod' then
+    if IsPlayerAceAllowed(source, "sc.allwipe") then
             TriggerClientEvent('sc:clearallmenu-open', src)
 	else
 			TriggerClientEvent('okokNotify:Alert', src, "SC ClearAll", "Onjuisten permissions.", 2000, 'error')
