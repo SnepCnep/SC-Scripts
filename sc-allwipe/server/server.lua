@@ -58,7 +58,7 @@ function clearallmenu()
         {label = "Auto's | Not in vehicle", name = "carsdo"},
         {label = "Objecten", name = "props"},
         {label = "Peds", name = "peds"},
-		{label = "All", name = "all"},
+	{label = "All", name = "all"},
         {label = "<----| SC AllWipe |---->", name = "niks"},
       }
     
