@@ -42,6 +42,9 @@ Citizen.CreateThread(function()
 			local x,y,z = table.unpack(GetEntityCoords(PlayerPedId()))
 			ClearAreaOfVehicles(x, y, z, 1000, false, false, false, false, false)
 			RemoveVehiclesFromGeneratorsInArea(x - 500.0, y - 500.0, z - 500.0, x + 500.0, y + 500.0, z + 500.0);
+			for i = 1, 15 do
+			EnableDispatchService(i, false)
+                    end
 		end
 	end
 end)
