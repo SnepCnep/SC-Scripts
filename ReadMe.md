@@ -6,6 +6,8 @@
 
 3/ Mijn naam in deze script mag niet worden verwijdert ( SnepCnep )
 
+4/ Mag wel worden gebruikt
+
 # Support
 
 - Vragen kunt u altijd mij een berichtje sturen ( 𝓢𝓷𝓮𝓹𝓒𝓷𝓮𝓹#0074 )
